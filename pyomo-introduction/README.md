@@ -1,10 +1,4 @@
-## A. Overview
-This repository documents my personal learning progress in using **Pyomo**, a Python-based optimization and modeling framework. 
-For this usecase, its application in modelling **reaction kinetics, diffusion, and process simulation** will be the priority.
-
----
-
-## B. Roadmap
+## Roadmap for Learning Pyomo
 
 ### 1. Linear Models (Optimization Fundamentals)
 **Objective:** Understand Pyomo syntax and model structure using simple linear programming (LP) and mixed-integer linear programming (MILP) examples.
