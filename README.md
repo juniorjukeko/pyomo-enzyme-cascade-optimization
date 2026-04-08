@@ -36,9 +36,3 @@ where $x$ is the dimensional pore depth and $L$ is the total pore length.
 $$u_{i} = \frac{S_{i}}{S_{\text{ref}}}$$
 
 where $S_{i}$ is the concentration of component $i$, and $S_{\text{ref}}$ is a reference concentration, typically $S_{1,0}(t=0)$.
-
-### Enzyme Surface Density
-
-$$E_{n,j}^{*}(\xi) = \frac{E_{j,n}(x)}{E_j^{\max}}$$
-
-where $E_{j,n}(x)$ is the dimensional enzyme density and $E_j^{\max}$ is the maximum surface density.
